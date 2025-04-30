@@ -14,7 +14,7 @@
 - 후후
 
 
-## 아래 그림은 pixabay.com에서 받아 왔음.
+## 아래 그림은 pixabay.com에서 받아 왔음. (세계 최대 무료 사진 사이트)
 
 ![image](https://github.com/user-attachments/assets/ceccf552-456e-4328-8f99-3c9106e36e45)
 
