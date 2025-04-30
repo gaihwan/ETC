@@ -15,3 +15,9 @@
 
 
 ![image](https://github.com/user-attachments/assets/ceccf552-456e-4328-8f99-3c9106e36e45)
+
+```cpp
+#include <iostream>
+int main() {
+  return 0;
+}
