@@ -14,6 +14,8 @@
 - 후후
 
 
+## 아래 그림은 pixabay.com에서 받아 왔음.
+
 ![image](https://github.com/user-attachments/assets/ceccf552-456e-4328-8f99-3c9106e36e45)
 
 ```cpp
